@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm <strong>Savidya Bandara</strong></h1>
+<h1 align="center">Hello 👋, I'm <strong>Savindya Bandara</strong></h1>
 
 <h3 align="center">BSc (Hons) Computer Engineering (UG) - University of Ruhuna</h3>
 <h3 align="center">Passionate about full-stack development 💻| AI/ML 🤖</h3>
